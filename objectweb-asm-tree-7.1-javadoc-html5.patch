@@ -1,0 +1,14 @@
+diff -up objectweb-asm-tree-7.1/org/objectweb/asm/tree/package.html.omv~ objectweb-asm-tree-7.1/org/objectweb/asm/tree/package.html
+--- objectweb-asm-tree-7.1/org/objectweb/asm/tree/package.html.omv~	2019-05-13 17:30:21.386400885 +0200
++++ objectweb-asm-tree-7.1/org/objectweb/asm/tree/package.html	2019-05-13 17:30:42.898220627 +0200
+@@ -45,8 +45,8 @@ transform a class by almost two (it is a
+ and write a class with a ClassVisitor than with a ClassNode). This is why
+ this package is bundled in an optional <code>asm-tree.jar</code> library that
+ is separated from (but requires) the <code>asm.jar</code> library, which contains
+-the core ASM framework. This is also why <i><font color="red">it is recommended
+-not to use this class adapter when it is possible</font></i>.
++the core ASM framework. This is also why <i><span style="color: red;">it is recommended
++not to use this class adapter when it is possible</span></i>.
+ </p>
+ 
+ <p>
