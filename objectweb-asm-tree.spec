@@ -1,6 +1,6 @@
 Name:           objectweb-asm-tree
 Version:        7.1
-Release:        1
+Release:        2
 Summary:        Tree API of ASM, a very small and fast Java bytecode manipulation framework
 License:        BSD
 URL:            http://asm.ow2.org/
